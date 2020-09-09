@@ -1,0 +1,51 @@
+[
+    {
+        "name":"Port",
+        "location":"Beirut",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"01580211\", \"01580212\", \"01580213\", \"01580214\", \"01580215\", \"01580216\"]"
+    },
+    {
+        "name":"Port",
+        "location":"Jounieh",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"09933818\"]"
+    },
+    {
+        "name":"Port",
+        "location":"Tripoli",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"06601995\", \"06600283\"]"
+    },
+    {
+        "name":"Port",
+        "location":"Jbeil",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"09540054\", \"09547567\", \"09547568\"]"
+    },
+    {
+        "name":"Port",
+        "location":"Saida",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"07720019\", \"07720023\"]"
+    },
+    {
+        "name":"Port",
+        "location":"Tyr",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"07740552\"]"
+    },
+    {
+        "name":"Port",
+        "location":"Chekka",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"06545137\"]"
+    }
+]

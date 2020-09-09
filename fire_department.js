@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Fire Department",
+        "location":"Al Bachoura",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"01655111\", \"01643720\", \"01643721\"]"
+    },
+    {
+        "name":"Fire Department",
+        "location":"Beyrouth",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"01303792\", \"01310105\", \"01310155\"]"
+    },
+    {
+        "name":"Fire Department",
+        "location":"Mar Mikhael",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"01447125\", \"01445000\"]"
+    },
+    {
+        "name":"Fire Department",
+        "location":"Saida",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"07720061\", \"07751599\"]"
+    },
+    {
+        "name":"Fire Department",
+        "location":"Tripoli",
+        "latitude":"33.888630",
+        "longitude":"35.495480",
+        "phone_numbers":"[\"06431017\", \"06444491\", \"06444492\", \"06444493\"]"
+    }
+]

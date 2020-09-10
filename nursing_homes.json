@@ -1,0 +1,250 @@
+[
+  {
+    "sector": "101",
+    "name": "مؤسسات محمد خالد الاجتماعية",
+    "phone_numbers": ["01851933", "01851934", "01851935"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "101",
+    "name": "العمر المديد ـ سامية بعاصيري – بئر حسن",
+    "phone_numbers": ["01824961"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "101",
+    "name": "دار العجزة الإسلامية - صبرا",
+    "phone_numbers": ["01856658"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "102",
+    "name": "مأوى الأرمن ـ برج حمود",
+    "phone_numbers": ["01260533", "01260534"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "103",
+    "name": "المأوى الماروني",
+    "phone_numbers": ["01289888", "01280696", "01286286"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "201",
+    "name": "مأوى غدراس",
+    "phone_numbers": ["09740106"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "201",
+    "name": "مأوى يسوع الملك",
+    "phone_numbers": ["09218202", "09218203", "09218204"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "201",
+    "name": "بيت الراحة/ الصفرا",
+    "phone_numbers": ["09957728", "09946492"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "202",
+    "name": "مأوى السيدة",
+    "phone_numbers": ["04713100", "04713101", "04713102", "04713103", "04713104"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "203",
+    "name": "مأوى السريان ـ العطشانة",
+    "phone_numbers": ["04984448"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "204",
+    "name": "دار الرحمة",
+    "phone_numbers": ["04971350", "04971353", "04970435"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "204",
+    "name": "بيت العجوز",
+    "phone_numbers": ["04400282", "04531994"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "204",
+    "name": "العمر الطويل",
+    "phone_numbers": ["04981980", "04985640"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "205",
+    "name": "مأوى سيدة النجاة حبوب",
+    "phone_numbers": ["09540728", "09946492"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "205",
+    "name": "مأوى كفر مسحون",
+    "phone_numbers": ["09737158"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "205",
+    "name": "مأوى مار مخايل",
+    "phone_numbers": ["09540603", "09540477", "09621033"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "205",
+    "name": "مأوى سانتا ماريا ـ عنايا",
+    "phone_numbers": ["09760709", "03941810"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "206",
+    "name": "بيت راهبات الأم تريزيا - البوشرية",
+    "phone_numbers": ["01686301"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "207",
+    "name": "مأوى المسنين - الشبانية",
+    "phone_numbers": ["05531920"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "301",
+    "name": "دار السعادة ـ كسارة",
+    "phone_numbers": ["08506827", "08506828"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "401",
+    "name": "دار السلام",
+    "phone_numbers": ["07725562", "07729900"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "501",
+    "name": "دار العجزة عزمة",
+    "phone_numbers": ["06204536"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "501",
+    "name": "دار العجزة الميناء",
+    "phone_numbers": ["06611260"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "501",
+    "name": "دار الرحمة",
+    "phone_numbers": ["06448324", "06448325"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "501",
+    "name": "مأوى ابي سمرا",
+    "phone_numbers": ["06446335", "06446336", "06441812", "06625180"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "502",
+    "name": "مأوى القديسة رفقا ـ جربتا ",
+    "phone_numbers": ["09750325"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "502",
+    "name": "مأوى أوزانام",
+    "phone_numbers": ["06642592"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "502",
+    "name": "مأوى بيت المسن _ دوما ",
+    "phone_numbers": ["06520128"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "505",
+    "name": "دار الراحة - مجدليا",
+    "phone_numbers": ["06662570", "06661577"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "601",
+    "name": "بيت السيدة ـ الحدث",
+    "phone_numbers": ["05469671"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  },
+  {
+    "sector": "602",
+    "name": "دار الإستراحة - عاليه",
+    "phone_numbers": ["05769389"],
+    "location": "Beirut",
+    "latitude": "33.888630",
+    "longitude": "35.495480"
+  }
+]
